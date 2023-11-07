@@ -2,7 +2,10 @@
  [![Join our Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mevde2mRSw)
 [![Telegram](https://img.shields.io/badge/Telegram-%235865F2.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HikuruOfficial)-->
 
-## Discord username for Aleo ambassador: neyommy81
+## Discord username for Aleo ambassador: 
+```
+neyommy81
+```
 
 # What is Hikuru and what problem does it solve?
 
