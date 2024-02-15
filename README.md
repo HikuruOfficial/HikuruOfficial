@@ -26,7 +26,7 @@ Our dApps provide a platform for creating and deepening social connections, whil
 
 ## Ecosystem Products
 
-**Fusion** — is an aggregator that combines the best decentralized exchanges, NFT marketplaces, and cross-chain bridges all in one place. Our algorithms will search for the most advantageous exchange paths and offer the community low fees and high exchange rates, all within a single platform. 
+**Fusion** — is an aggregator that combines the best decentralized exchanges, NFT-marketplaces, and cross-chain bridges all in one place. Our algorithms will search for the most advantageous exchange paths and offer the community low fees and high exchange rates, all within a single platform. Will provide the community with the opportunity to earn on commissions.
 
 **Occasion** — is a platform for project and cryptocurrency community interaction. Projects can create their own events and reward users for their activity. It's a small analog of Galxe, but with Social-Fi elements and more advanced sibling tracking tools. Any project can create a quest campaign with us and attract a community using our tools and a unique referral system. We will also provide the opportunity to distribute future token rewards from projects.
 
