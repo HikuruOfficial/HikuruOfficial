@@ -12,7 +12,7 @@ We realize that crypto-enthusiasts need a single platform that offers comprehens
 
 At the heart of Hikuru's innovation is a solution to a critical problem: saving time and improving current technology. We realize that crypto-enthusiasts need a single platform that offers comprehensive and secure crypto solutions. We will create improved decentralized applications that allow users to be more active in the Web3 world. Everything you are using now is an unfinished platforms, and in turn, we will introduce functionality you haven't seen yet.
 
-## The commission distribution is 50%
+## The revenue distribution is 50%
 
 What sets Hikuru apart is our reward model where 50% of the project's revenue go to users who contribute to the growth of our community through recruiting new members. This model incentivizes everyone from regular users to projects to influencers to actively recruit new members to our community, ensuring that everyone benefits from revenue earned in the Hikuru ecosystem. We give a portion of the money earned from revenue to the community, in our case decentralization and community rewards are not just promises, they are the foundation of our project and how it will work.
 
