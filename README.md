@@ -6,7 +6,7 @@
 
 Hikuru - is an advanced decentralized Web3 ecosystem that offers a number of dApp with Social-Fi elements. At the heart of Hikuru's innovation is solving a critical problem: saving time and improving current technology. 
 
-We realize that crypto-enthusiasts need a single platform that offers comprehensive and secure crypto solutions. We will create improved decentralized applications that allow users to be more active in the Web3 world and also make it easier for people to transition from Web2 to Web3.
+We realize that crypto-enthusiasts need a single platform that offers comprehensive and secure crypto solutions. We will create improved dApps that allow users to be more active in the Web3 world and also make it easier for people to transition from Web2 to Web3.
 
 ## Solving the crypto-enthusiast's dilemma: time and availability
 
@@ -14,27 +14,26 @@ At the heart of Hikuru's innovation is a solution to a critical problem: saving 
 
 ## The commission distribution is 50%
 
-What sets Hikuru apart is our reward model where 50% of the project's revenue go to users who contribute to the growth of our community through recruiting new members. This model incentivizes everyone from regular users to projects to influencers to actively recruit new members to our community, ensuring that everyone benefits from commissions earned in the Hikuru ecosystem. We give a portion of the money earned from commissions to the community, in our case decentralization and community rewards are not just promises, they are the foundation of our project and how it will work.
-
+What sets Hikuru apart is our reward model where 50% of the project's revenue go to users who contribute to the growth of our community through recruiting new members. This model incentivizes everyone from regular users to projects to influencers to actively recruit new members to our community, ensuring that everyone benefits from revenue earned in the Hikuru ecosystem. We give a portion of the money earned from revenue to the community, in our case decentralization and community rewards are not just promises, they are the foundation of our project and how it will work.
 
 ## Social-Fi elements and share model
 
-At the heart of our ecosystem lies an innovative approach to social interactions, integrating Social-Fi principles with every aspect of our applications. At Hikuru, we're not just creating a platform—we're creating a space where everyone can freely communicate, express their thoughts and ideas through personalized profiles and posts. You'll be able to interact with our social chain in each of our ecosystem applications without having to open extra pages or leave your workspace. But this is just the beginning.
+At the heart of our ecosystem lies an innovative approach to social interactions, integrating Social-Fi principles with every aspect of our dApps. At Hikuru, we're not just creating a platform—we're creating a space where everyone can freely communicate, express their thoughts and ideas through personalized profiles and posts. You'll be able to interact with our social chain in each of our ecosystem dApps without having to open extra pages or leave your workspace. But this is just the beginning.
 
 We offer a unique opportunity for each user not only to share their thoughts but also to become part of an economic network, buying and selling shares of both their own profile and those of other users. This opens up new horizons for interaction and investment within our decentralized network.
 
-Our applications provide a platform for creating and deepening social connections, while also enabling direct economic participation and influence by each participant. At Hikuru, you will find not only the means for communication but also the tools to realize your economic potential. Welcome to the next-generation social network, where every interaction holds value.
+Our dApps provide a platform for creating and deepening social connections, while also enabling direct economic participation and influence by each participant. At Hikuru, you will find not only the means for communication but also the tools to realize your economic potential. Welcome to the next-generation social network, where every interaction holds value.
 
 ## Ecosystem Products
 
-**Fusion** — is an aggregator of decentralized exchanges, NFT-marketplace and bridges. Will bring together the best decentralized exchanges, NFT-marketplace and crosschain bridges in one place. Will provide the community with the opportunity to earn on commissions.
+**Fusion** — is an aggregator that combines the best decentralized exchanges, NFT marketplaces, and cross-chain bridges all in one place. Our algorithms will search for the most advantageous exchange paths and offer the community low fees and high exchange rates, all within a single platform. 
 
-**Occasion** — a platform for giveaways and quests from projects. Similar to Galxe and Premint, but with Social-Fi elements and with better sybil tracking tools. Anyone can create a quest company with us and attract hundreds of thousands of users with our tools and unique referral systems. 
+**Occasion** — is a platform for project and cryptocurrency community interaction. Projects can create their own events and reward users for their activity. It's a small analog of Galxe, but with Social-Fi elements and more advanced sibling tracking tools. Any project can create a quest campaign with us and attract a community using our tools and a unique referral system. We will also provide the opportunity to distribute future token rewards from projects.
 
-**Blockchain Passport** — is a digital ID that uses wallet data to verify a user's activity on the blockchain. It does not store personal information and ensures user privacy. It also uses open web standards to verify identity and can be used for verification across blockchains, which increases the reliability and security of the system. Its use can help reduce fraudulent activities and provide more accurate identification of users on the blockchain. Any project will be able to add the function of opening a wallet using our passport.
+**Web3 Passport** — is a digital identifier that uses wallet data to verify a user's activity on the blockchain. It employs open web standards for identity verification and can be used for verification across different blockchains while maintaining user privacy. Its use can help reduce fraudulent activities and ensure more accurate user identification on the blockchain.
 
-**Insider** — is a platform for analyzing blockchain data, it will help to track transfers on the blockchain and learn more information about web3 projects. Users will also be provided with a wallet tracker where they can track all incoming and outgoing transactions.
+**Insider** — is a platform for blockchain data analysis, helping to track blockchain transfers and learn more about web3 projects. Users will also be provided with a wallet tracker, where they can monitor all incoming and outgoing transactions.
 
-**Hikuru Wallet** — A multi-network wallet with Social-Fi elements, you can send messages to your friends using blockchain transactions.
+**Hikuru Wallet** — is a multi-chain wallet with Social-Fi elements, allowing users to send messages to friends using blockchain-based transactions.
 
-**Hikuru Browser** — A secure and private browser that leaves no trace on the internet. With the integration of artificial intelligence that will allow you to perform all programmed actions without human intervention.
+**Hikuru Browser** — is a multitasking, secure, and private browser with artificial intelligence integration that allows you to perform all programmed actions without human intervention.
