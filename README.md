@@ -15,13 +15,15 @@ At the heart of Hikuru's innovation is a solution to a critical problem: saving 
 What sets Hikuru apart is our reward model where 50% of the project's revenue go to users who contribute to the growth of our community through recruiting new members. This model incentivizes everyone from regular users to projects to influencers to actively recruit new members to our community, ensuring that everyone benefits from commissions earned in the Hikuru ecosystem. We give a portion of the money earned from commissions to the community, in our case decentralization and community rewards are not just promises, they are the foundation of our project and how it will work.
 
 
-## Social-Fi elements in every ecosystem app
+## Social-Fi elements and share model
 
 At the heart of our ecosystem lies an innovative approach to social interactions, integrating Social-Fi principles with every aspect of our applications. At Hikuru, we're not just creating a platform—we're creating a space where everyone can freely communicate, express their thoughts and ideas through personalized profiles and posts. You'll be able to interact with our social chain in each of our ecosystem applications without having to open extra pages or leave your workspace. But this is just the beginning.
 
 We offer a unique opportunity for each user not only to share their thoughts but also to become part of an economic network, buying and selling shares of both their own profile and those of other users. This opens up new horizons for interaction and investment within our decentralized network.
 
 Our applications provide a platform for creating and deepening social connections, while also enabling direct economic participation and influence by each participant. At Hikuru, you will find not only the means for communication but also the tools to realize your economic potential. Welcome to the next-generation social network, where every interaction holds value.
+
+## Ecosystem Products
 
 **Fusion** — is an aggregator of decentralized exchanges, NFT-marketplace and bridges. Will bring together the best decentralized exchanges, NFT-marketplace and crosschain bridges in one place. Will provide the community with the opportunity to earn on commissions.
 
