@@ -4,7 +4,9 @@
 
 ## Discover Hikuru: your universal ecosystem in Web3
 
-Hikuru is an advanced decentralized Web3 ecosystem that offers a range of decentralized applications with Social-Fi elements. Users will be able to communicate with each other in any of our ecosystem projects while maintaining anonymity. What sets Hikuru apart is its unique commission distribution model - a **generous 50% commission** is paid to users who expand our community by inviting new members to the platform.
+Hikuru - is an advanced decentralized Web3 ecosystem that offers a number of dApp with Social-Fi elements. At the heart of Hikuru's innovation is solving a critical problem: saving time and improving current technology. 
+
+We realize that crypto-enthusiasts need a single platform that offers comprehensive and secure crypto solutions. We will create improved decentralized applications that allow users to be more active in the Web3 world and also make it easier for people to transition from Web2 to Web3.
 
 ## Solving the crypto-enthusiast's dilemma: time and availability
 
