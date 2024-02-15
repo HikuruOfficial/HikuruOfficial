@@ -12,9 +12,8 @@ At the heart of Hikuru's innovation is a solution to a critical problem: saving 
 
 ## The commission distribution is 50%
 
-Hikuru is your gateway to the world of blockchain where every invitation has value. We are excited to offer you a unique opportunity to be part of our growing community and be rewarded for expanding that community. For every user brought into our ecosystem through your unique link, we will charge you a commission of 50% of the amount spent by the user you invited on ecosystem Hikuru. This is our recognition of your contribution to the platform. This means that a portion of the project's revenue is directly returned to you as a thank you for your activism and support for the development of our community.
+What sets Hikuru apart is our reward model where 50% of the project's revenue go to users who contribute to the growth of our community through recruiting new members. This model incentivizes everyone from regular users to projects to influencers to actively recruit new members to our community, ensuring that everyone benefits from commissions earned in the Hikuru ecosystem. We give a portion of the money earned from commissions to the community, in our case decentralization and community rewards are not just promises, they are the foundation of our project and how it will work.
 
-Why split your attention between hundreds of projects when Hikuru offers everything you need in a single, secure, decentralized ecosystem? Our vision is broad and inclusive - an ecosystem that works across all blockchain networks. We are currently laying the foundation on the Blast blockchain, which we have defined as our core blockchain for developing decentralized applications.
 
 ## Social-Fi elements in every ecosystem app
 
