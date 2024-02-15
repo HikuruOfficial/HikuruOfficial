@@ -2,7 +2,7 @@
 [![Join our Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mevde2mRSw)
 <!--[![Telegram](https://img.shields.io/badge/Telegram-%235865F2.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HikuruOfficial)-->
 
-## Discover Hikuru: your one-stop ecosystem in Web3
+## Discover Hikuru: your universal ecosystem in Web3
 
 Hikuru is an advanced decentralized Web3 ecosystem that offers a range of decentralized applications with Social-Fi elements. Users will be able to communicate with each other in any of our ecosystem projects while maintaining anonymity. What sets Hikuru apart is its unique commission distribution model - a **generous 50% commission** is paid to users who expand our community by inviting new members to the platform.
 
